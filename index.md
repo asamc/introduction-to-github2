@@ -6,3 +6,7 @@
 ```
 THIS IS YOUR GOD NOW
 ```
+
+- [x] Eat glue
+- [x] Press buttons
+- [ ] Block effectively
